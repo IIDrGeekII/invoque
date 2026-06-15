@@ -8,7 +8,7 @@ Using this script, one can automate this process by taking access of one device 
 
 Just make sure all the devices can be access using ssh command from a single device.
 
-Use can use this script to run any command on a well known devices like Firewalls (with linux shell like *Checkpoint*), *Cisco ACI*, Load Balancers (*like F5 LB*), *Linux Servers* or *OS*.
+One can use this script to run any command on a well known devices like Firewalls (with linux shell like *Checkpoint*), *Cisco ACI*, Load Balancers (*like F5 LB*), *Linux Servers* or *OS*.
 
 
 Instructions before you run this script:
